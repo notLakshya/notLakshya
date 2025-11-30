@@ -111,9 +111,3 @@ Used by **2500+ students**, reduced offline traffic by **50%**.
 ## ✨ Fun Fact
 
 I love exploring how **GenAI** can accelerate engineering workflows and empower developers.
-
----
-
-## 📌 **Copy-Paste Ready README Source Code**
-
-You can now copy all text from this document — it is already formatted as Markdown for GitHub! 🚀
